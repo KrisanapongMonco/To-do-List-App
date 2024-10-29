@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ToDoList\\TotolistAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1BBA1-71C9-4175-903E-429F36D06008}|TotolistAPI\\TotolistAPI.csproj|d:\\todolist\\totolistapi\\totolistapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1BBA1-71C9-4175-903E-429F36D06008}|TotolistAPI\\TotolistAPI.csproj|solutionrelative:totolistapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1BBA1-71C9-4175-903E-429F36D06008}|TotolistAPI\\TotolistAPI.csproj|d:\\todolist\\totolistapi\\totolistapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1BBA1-71C9-4175-903E-429F36D06008}|TotolistAPI\\TotolistAPI.csproj|solutionrelative:totolistapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1BBA1-71C9-4175-903E-429F36D06008}|TotolistAPI\\TotolistAPI.csproj|d:\\todolist\\totolistapi\\totolistapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24C1BBA1-71C9-4175-903E-429F36D06008}|TotolistAPI\\TotolistAPI.csproj|solutionrelative:totolistapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1BBA1-71C9-4175-903E-429F36D06008}|TotolistAPI\\TotolistAPI.csproj|d:\\todolist\\totolistapi\\totolistapi\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1BBA1-71C9-4175-903E-429F36D06008}|TotolistAPI\\TotolistAPI.csproj|solutionrelative:totolistapi\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1BBA1-71C9-4175-903E-429F36D06008}|TotolistAPI\\TotolistAPI.csproj|d:\\todolist\\totolistapi\\totolistapi\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1BBA1-71C9-4175-903E-429F36D06008}|TotolistAPI\\TotolistAPI.csproj|solutionrelative:totolistapi\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1BBA1-71C9-4175-903E-429F36D06008}|TotolistAPI\\TotolistAPI.csproj|d:\\todolist\\totolistapi\\totolistapi\\totolistapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{24C1BBA1-71C9-4175-903E-429F36D06008}|TotolistAPI\\TotolistAPI.csproj|solutionrelative:totolistapi\\totolistapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ToDoList\\TotolistAPI\\TotolistAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TotolistAPI\\Program.cs",
+              "ToolTip": "D:\\ToDoList\\TotolistAPI\\TotolistAPI\\Program.cs",
+              "RelativeToolTip": "TotolistAPI\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:25:02.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "D:\\ToDoList\\TotolistAPI\\TotolistAPI\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "TotolistAPI\\Controllers\\TodoController.cs",
+              "ToolTip": "D:\\ToDoList\\TotolistAPI\\TotolistAPI\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "TotolistAPI\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAiwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:17:40.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ToDoList\\TotolistAPI\\TotolistAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TotolistAPI\\appsettings.json",
+              "ToolTip": "D:\\ToDoList\\TotolistAPI\\TotolistAPI\\appsettings.json",
+              "RelativeToolTip": "TotolistAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T10:17:15.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "D:\\ToDoList\\TotolistAPI\\TotolistAPI\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "TotolistAPI\\Data\\DbContext.cs",
+              "ToolTip": "D:\\ToDoList\\TotolistAPI\\TotolistAPI\\Data\\DbContext.cs",
+              "RelativeToolTip": "TotolistAPI\\Data\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:16:57.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TotolistAPI",
+              "DocumentMoniker": "D:\\ToDoList\\TotolistAPI\\TotolistAPI\\TotolistAPI.csproj",
+              "RelativeDocumentMoniker": "TotolistAPI\\TotolistAPI.csproj",
+              "ToolTip": "D:\\ToDoList\\TotolistAPI\\TotolistAPI\\TotolistAPI.csproj",
+              "RelativeToolTip": "TotolistAPI\\TotolistAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-29T10:16:45.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "D:\\ToDoList\\TotolistAPI\\TotolistAPI\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "TotolistAPI\\Models\\Todo.cs",
+              "ToolTip": "D:\\ToDoList\\TotolistAPI\\TotolistAPI\\Models\\Todo.cs",
+              "RelativeToolTip": "TotolistAPI\\Models\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:16:30.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
